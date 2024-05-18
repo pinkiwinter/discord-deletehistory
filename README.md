@@ -17,6 +17,8 @@ This repository hosts a Python script designed to facilitate message management 
     - The script offers a simple and intuitive interface, guiding you through each step of the process.
     - Clear prompts and informative messages ensure a smooth user experience.
 
+<img src="/img/buh1.gif" width="400">
+
 # How to Use
 1.  **Setup**
     -   Clone this repository to your local machine.
@@ -28,6 +30,8 @@ This repository hosts a Python script designed to facilitate message management 
     - Specify the number of messages you wish to delete.
 4. **Repeat or Exit:**
     - After deletion, choose whether to continue deleting messages or exit the script.
+
+<img src="/img/buh2.gif" width="400">
 
 # Note
 -   This script is designed for personal use and operates as a self-bot. Please ensure compliance with Discord's Terms of Service and use the tool responsibly.
