@@ -1,3 +1,5 @@
+# Introducing
+
 This repository hosts a Python script designed to facilitate message management within Discord. It leverages Discord's API to allow users to delete their own messages efficiently. Here's what you can expect from this tool: 
 
 <img src="/img/ds1.gif" width="400">
@@ -19,6 +21,7 @@ This repository hosts a Python script designed to facilitate message management 
 <img src="/img/buh1.gif" width="400">
 
 # How to Use
+
 1.  **Setup**
     -   Clone this repository to your local machine.
     - Ensure you have Python installed along with the required dependencies OR just download .zip file.
