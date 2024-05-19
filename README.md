@@ -1,4 +1,3 @@
-# Miya
 This repository hosts a Python script designed to facilitate message management within Discord. It leverages Discord's API to allow users to delete their own messages efficiently. Here's what you can expect from this tool: 
 
 <img src="/img/ds1.gif" width="400">
